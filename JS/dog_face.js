@@ -13,7 +13,7 @@ async function init() {
         labelContainer.appendChild(document.createElement('div'));
     }
 }
-
+ 
 async function predict() {
     var iamge = document.getElementById('animal-image');
     const prediction = await model.predict(iamge, false);

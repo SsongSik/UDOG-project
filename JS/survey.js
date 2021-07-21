@@ -11,7 +11,7 @@ function part1_change(){  //설문시작
     index[1].style.display = null;
 }
 
-
+ 
 function part2_change(name){  //이름
     index[1].style.display = "none";
     index[2].style.display = null;

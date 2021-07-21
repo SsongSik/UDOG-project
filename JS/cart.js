@@ -12,7 +12,7 @@ var footer = document.getElementsByClassName("foot");
 // localStorage["cart6"] = "standard";
 // localStorage["cart7"] = "standard2";
 // var cnt = localStorage.getItem["cart_eye_cnt"];
-
+ 
 var eye_loc_cnt= Number(localStorage["cart_eye_cnt"]);
 var jang_loc_cnt= Number(localStorage["cart_jang_cnt"]);
 var born_loc_cnt = Number(localStorage["cart_born_cnt"]);

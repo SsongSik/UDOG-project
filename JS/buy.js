@@ -9,7 +9,7 @@ var skin_loc_cnt = Number(localStorage["cart_skin_cnt"]);
 var heart_loc_cnt =Number(localStorage["cart_heart_cnt"]);
 var standard_loc_cnt = Number(localStorage["cart_standard_cnt"]);
 var standard2_loc_cnt = Number(localStorage["cart_standard2_cnt"]);
-
+ 
 
 var eye_inner = document.getElementsByClassName("eye_cnt");
 var jang_inner = document.getElementsByClassName("jang_cnt");

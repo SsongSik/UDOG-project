@@ -9,7 +9,7 @@ function productpage(){
 function shopmainpage(){
     location.href="index.html";
 }
-
+ 
 function fn_load() {
     var str = returnUrlParams();
     if(str==123){

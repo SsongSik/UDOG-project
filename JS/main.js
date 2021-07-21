@@ -10,7 +10,7 @@ function fn_load() {
         a[0].style.display = "initial";
         a[1].style.display = "none";
     }
-}
+} 
 function returnUrlParams() {
     var array = [], hash;
     //직접가져기

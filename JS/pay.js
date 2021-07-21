@@ -9,7 +9,7 @@ function init(){
     canvas.addEventListener("mousedown", function (e) { down(e) }, false);
     canvas.addEventListener("mouseup", function (e) { up(e) }, false);
     canvas.addEventListener("mouseout", function (e) { out(e) }, false);
-}
+} 
 var startX=0, startY=0; 
 var dragging=false;
 function draw(curX, curY) {
